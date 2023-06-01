@@ -1,3 +1,4 @@
+//array = Just a variable which can store multiple values 
 
 let fruits = ["apple", "mango", "banana"];
 
