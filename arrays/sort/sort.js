@@ -3,7 +3,7 @@
 let prices = [1,4,3,6,7,2,8,9];
 let places = ["home", "work", "office", "garden", "terrace"];
 
-prices = prices.sort();                 //to sort in ascending order
+prices = prices.sort().reverse();                 //to sort in ascending order
 places = places.sort().reverse();       // to sort in descending order
 
 
